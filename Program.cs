@@ -5,7 +5,8 @@
         public static void Main(string[] args)
         {
             
-            Length.calculatelength();
+           // Length.calculatelength();
+            Equality.CheckEquality();
         }
     }
 }
