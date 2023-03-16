@@ -4,9 +4,10 @@
     {
         public static void Main(string[] args)
         {
-            
-           // Length.calculatelength();
-            Equality.CheckEquality();
+
+            // Length.calculatelength();
+            //Equality.CheckEquality();
+            LineComparison.CheckLines();
         }
     }
 }
